@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_NAME: githubactions-demo
-  COURSE: LLMOps-by-Manifold-AI-Learning
+  COURSE: GITACTION-TRAIN
 
 jobs:
   myexamplejob:
